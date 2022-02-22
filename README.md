@@ -14,3 +14,6 @@ to press ENTER to invoke the temperature conversion.
 #License remarks
 This project was intended to help me get my feet wet with the Ruby coding language.  If it can help you learn, feel free
 to copy snippets from it, but copy paste it to your portfolio at your own risk (not recommended).
+
+#Style remarks
+Yes, I am primarily a JavaScript programmer getting my feet wet with Ruby, as such it looks a bit strange stylistically.
