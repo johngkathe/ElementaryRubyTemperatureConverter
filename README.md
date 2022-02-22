@@ -16,4 +16,5 @@ This project was intended to help me get my feet wet with the Ruby coding langua
 to copy snippets from it, but copy paste it to your portfolio at your own risk (not recommended).
 
 #Style remarks
-Yes, I am primarily a JavaScript programmer getting my feet wet with Ruby, as such it looks a bit strange stylistically.
+Yes, I am primarily a JavaScript programmer getting my feet wet with Ruby.  And accordingly, this code looks a bit strange 
+stylistically.
